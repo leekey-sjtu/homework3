@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework3</string>
+    <string name="string_btn1">b站一键三连</string>
+    <string name="string_btn2">选做：使用ViewPager2在Fragment之间滑动</string>
+    <string name="home_page">回到首页</string>
+    <string name="number">999+</string>
+</resources>
